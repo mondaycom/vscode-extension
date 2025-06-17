@@ -12,16 +12,6 @@ A Visual Studio Code extension that brings your monday.com workspace directly in
   - [📝 Items Management](#-items-management)
   - [⚡ Item Actions](#-item-actions)
 - [📦 Versioning](#versioning)
-- [💻 Working locally](#working-locally)
-  - [📥 Install dependencies](#install-dependencies)
-  - [🚀 Run the extension](#run-the-extension)
-  - [🔧 Activate the extension in dev mode](#activate-the-extension-in-dev-mode)
-- [🔄 CI/CD](#cicd)
-  - [💡 IDE interaction](#ide-interaction)
-  - [🎨 Client side changes](#client-side-changes)
-  - [🌐 Extension server](#extension-server)
-- [🔄 Interaction with webview UI](#interaction-with-webview-ui)
-  - [📨 Message Flow](#message-flow)
 
 ## Features
 
