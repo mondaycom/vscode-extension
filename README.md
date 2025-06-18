@@ -11,7 +11,6 @@ A Visual Studio Code extension that brings your monday.com workspace directly in
   - [📋 Board Context](#-board-context)
   - [📝 Items Management](#-items-management)
   - [⚡ Item Actions](#-item-actions)
-- [📦 Versioning](#versioning)
 
 ## Features
 
@@ -53,7 +52,3 @@ Each item has three quick actions:
 - **Open in monday** - Open the item in monday.com web interface
 
 - **Solve with AI** - Enrich IDE AI chat with the item context
-
-### Versioning
-
-You can find latest versions of the extension in the [packages page](/packages), see changes in the [changelog](/CHANGELOG.md).
