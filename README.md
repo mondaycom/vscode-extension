@@ -1,4 +1,4 @@
-# monday.com VS Code Extension
+# [DEPRECATED] monday.com VS Code Extension
 
 A Visual Studio Code extension that brings your monday.com workspace directly into your development environment. Manage tasks, view item details, and create feature branches without leaving your editor.
 
